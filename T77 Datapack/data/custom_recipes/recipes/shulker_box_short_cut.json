@@ -1,0 +1,23 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "TDT",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:chorus_fruit_popped"
+        },
+        "T": {
+            "item": "minecraft:trapped_chest"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:purple_shulker_box",
+        "count": 1
+    }
+}
